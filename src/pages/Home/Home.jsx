@@ -5,7 +5,7 @@ function Home() {
     return (
         <div className="container">
             <img 
-                src="../../../public/img/pic/stdempimg.jfif" 
+                src="/img/pic/stdempimg.jfif"
                 alt="Profile" 
                 className="profile-image" 
             />
