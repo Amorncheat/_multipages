@@ -23,8 +23,8 @@ const Animation = () => {
       objectImage: ""
     },
     Basketball: {
-      backgroundImage: "url('/img/bg/field wood.jpg')",
-      objectImage: "url('public/img/pic/basketball.png')"
+      backgroundImage: "url('../../../public/img/bg/field wood.jpg')",
+      objectImage: "url('../../../public/img/pic/basketball.png')"
     },
     Football: {
       backgroundImage: "url('../../../public/img/bg/depositphotos_45100801-stock-illustration-fresh-grass-seamless-vector-pattern.jpg')",
