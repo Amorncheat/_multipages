@@ -4,8 +4,8 @@ import React from 'react';
 function Home() {
     return (
         <div className="container">
-            <img 
-    src="/img/pic/stdempimg.jfif" 
+           <img 
+    src="https://amorncheat.github.io/_multipages/img/pic/stdempimg.jfif" 
     alt="Profile" 
     className="profile-image" 
 />
