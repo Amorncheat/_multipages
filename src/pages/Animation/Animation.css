@@ -1,0 +1,60 @@
+.animation-container {
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin: auto;
+    box-shadow: 0 0 0.5rem gray;
+    padding: 20px;
+    text-align: center;
+}
+
+.area-display {
+    width: 800px;
+    height: 400px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.object-basketball,
+.object-football,
+.object-volleyball,
+.object-human,
+.object-cartoon,
+.object-logo {
+    width: 150px;
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.object-basketball {
+    background-image: url("/img/pic/basketball.png");
+}
+
+.object-football {
+    background-image: url("/img/pic/football.png");
+}
+
+.object-volleyball {
+    background-image: url("/img/pic/volleyball.png");
+}
+
+.object-human {
+    background-image: url("/img/pic/human.jpg");
+}
+
+.object-cartoon {
+    background-image: url("/img/pic/girl.jpg");
+}
+
+.object-logo {
+    background-image: url("/public/img/pic/logo.png");
+}
+
+.object-none {
+    background-image: url("");
+}
